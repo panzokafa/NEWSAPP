@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NEWSAPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Jadwal Timnas U-23 Indonesia vs Australia Leg Kedua, Masih Ada Harapan</string>
+    <string name="desc">Timnas U-23 Indonesia masih akan melawan Australia pada laga kedua Grup G Kualifikasi Piala Asia U-23 2022.</string>
+    <string name="date">Senin 8 Januari 2021</string>
+    <string name="author">Kafa</string>
+    <string name="content_news">content_news</string>
+    <string name="content_image_news_detail">Image News detail</string>
+    <string name="separate">|</string>
+</resources>
